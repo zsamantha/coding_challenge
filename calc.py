@@ -7,7 +7,6 @@ print("Type \"Q\" to quit the program.")
 
 result = None
 op = None
-first = True
 
 while(True):
     calc = input().strip().split()
